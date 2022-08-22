@@ -1,1 +1,5 @@
 # name-classification-using-rnn
+
+### Datasets Link
+
+[Datasets](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFpKaUtQSENvMmtkYjhCRklUSWlQd21MWFpqQXxBQ3Jtc0tuSGp1V09xUk1GaG9qODVYcW1hUGlqcHhfdWNoS0VoTE9oTEdESWRZYm5PdEcyTzJOZWpqZi0xdkVzcFJtZTYzZmUzdHFjZHd6WkRoQmQwNVMzUnpXVXpOX0RnclpETGUtQTY2TW1GVGQ0NzZOZFVKdw&q=https%3A%2F%2Fdownload.pytorch.org%2Ftutorial%2Fdata.zip&v=WEV61GmmPrk)
